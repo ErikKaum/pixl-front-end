@@ -14,4 +14,7 @@ In total the project has 3 components:\
 
 
 ## Graphical illustration of the architecture
+The image provides a overview of the planned architecture, its components and how they interact with each other.
+It's meant as a diagram to support planning and will most likely change in the future. Also, it serves as a guideline and many non-trivial details are still not implemented.
+
 ![diagram](./diagram.svg)
