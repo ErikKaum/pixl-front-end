@@ -9,7 +9,7 @@ In total the project has 3 components:\
 :desktop_computer: &nbsp;&nbsp;&nbsp; the UI/front-end. A headless ecom front-end built on Next.JS (this repo)\
 :convenience_store: &nbsp;&nbsp;&nbsp; the Shopify store. Serves as a kind of store back-end, providing product managment, payments etc.\
 :student: &nbsp;&nbsp;&nbsp; the Agent. The one to actually run the store. Composed of 2 subcomponents:
-- Desing creation. A General Adversarial Network combined with a Variational Auto Encoder (a draft of a GAN API-endpoint this can be found in this [repo](https://github.com/ErikKaum/pixlrest/) and a draft of the ProGAN can be found in this [repo] (https://github.com/ErikKaum/progressive-gan)).
+- Desing creation. A General Adversarial Network combined with a Variational Auto Encoder (a draft of a GAN API-endpoint this can be found in this [repo] (https://github.com/ErikKaum/pixlrest/) and a draft of the ProGAN can be found in this [repo](https://github.com/ErikKaum/progressive-gan)).
 - Design evaluation. A reinforecement learning agent based on Deep Determinisitc Policy Gradient
 
 
